@@ -1,0 +1,9 @@
+.side-panel {
+  flex: 0.3;
+  background-color: white;
+  height: 60vh;
+  margin-top: 10px;
+  margin-left: 5px;
+  padding: 5px;
+  max-width: 300px;
+}

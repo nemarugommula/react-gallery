@@ -1,0 +1,4 @@
+.progress-bar {
+  background: linear-gradient(black, rgba(0, 1, 2, 3));
+  height: 2px;
+}

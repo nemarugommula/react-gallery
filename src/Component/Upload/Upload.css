@@ -1,0 +1,31 @@
+.upload-icon {
+  font-size: 10vw !important;
+  align-self: center;
+}
+
+.upload-btn {
+  padding: 20px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  background-color: black;
+  border-radius: 2px;
+  align-self: center;
+  text-decoration: none;
+  background-color: grey;
+}
+
+.upload-btn:hover {
+  transform: scale(1.08);
+  transition-delay: 0.1s;
+}
+
+.upload {
+  display: flex;
+  flex-direction: column;
+}
+
+.upload-progressbar {
+  align-self: flex-start;
+}

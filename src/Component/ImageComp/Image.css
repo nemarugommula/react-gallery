@@ -1,0 +1,7 @@
+.image {
+  object-fit: fill;
+  padding: 5px;
+  height: 40vh;
+  min-width: 300px;
+  max-width: 300px;
+}
